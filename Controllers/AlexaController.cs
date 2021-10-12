@@ -247,6 +247,11 @@ namespace AlexaGitHubDemo.Controllers
 
             switch (intentRequest.Intent.Name)
             {
+                case "TellMeYourName":
+                    innerResponse = new SsmlOutputSpeech();
+                    (innerResponse as SsmlOutputSpeech).Type = "SSML";
+                    (innerResponse as SsmlOutputSpeech).Ssml = intentRequest.Intent.Slots["nome"].Value+ " lavori all'università" ; // GetNewFact(factdata, true);
+                    break;
                 case "GetNewFactIntent":
                     innerResponse = new SsmlOutputSpeech();
                     (innerResponse as SsmlOutputSpeech).Type = "SSML";

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Annalisa_lavoro\\AlexaGitHubDemo\\AlexaGitHubDemo.csproj": {}
+    "C:\\Users\\Annalisa_lavoro\\Documents\\Visual Studio 2019\\Projects\\AlexaProject\\AlexaGitHubDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Annalisa_lavoro\\AlexaGitHubDemo\\AlexaGitHubDemo.csproj": {
+    "C:\\Users\\Annalisa_lavoro\\Documents\\Visual Studio 2019\\Projects\\AlexaProject\\AlexaGitHubDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Annalisa_lavoro\\AlexaGitHubDemo\\AlexaGitHubDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Annalisa_lavoro\\Documents\\Visual Studio 2019\\Projects\\AlexaProject\\AlexaGitHubDemo.csproj",
         "projectName": "AlexaGitHubDemo",
-        "projectPath": "C:\\Users\\Annalisa_lavoro\\AlexaGitHubDemo\\AlexaGitHubDemo.csproj",
+        "projectPath": "C:\\Users\\Annalisa_lavoro\\Documents\\Visual Studio 2019\\Projects\\AlexaProject\\AlexaGitHubDemo.csproj",
         "packagesPath": "C:\\Users\\Annalisa_lavoro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Annalisa_lavoro\\AlexaGitHubDemo\\obj\\",
+        "outputPath": "C:\\Users\\Annalisa_lavoro\\Documents\\Visual Studio 2019\\Projects\\AlexaProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

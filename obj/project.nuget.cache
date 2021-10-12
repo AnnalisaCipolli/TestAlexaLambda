@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f8GpytOCOjVmyO6jAc86JrEoE5bBC6efs3tx9QwAMz6tYq4VVb90UkKAnOhkrv6n08hNiijlQgtzHYIMxAL3FQ==",
+  "dgSpecHash": "qNET/RW65B9k15VXDyOSwhylMbNj3/8h9Vrpzlo6/NuxW9Fhc9Jb5OmPAAZOPsAuzlIzVsq7Hw0/0fFTRYm2cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Annalisa_lavoro\\AlexaGitHubDemo\\AlexaGitHubDemo.csproj",
+  "projectFilePath": "C:\\Users\\Annalisa_lavoro\\Documents\\Visual Studio 2019\\Projects\\AlexaProject\\AlexaGitHubDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Annalisa_lavoro\\.nuget\\packages\\alexa.net\\1.17.0\\alexa.net.1.17.0.nupkg.sha512",
     "C:\\Users\\Annalisa_lavoro\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",

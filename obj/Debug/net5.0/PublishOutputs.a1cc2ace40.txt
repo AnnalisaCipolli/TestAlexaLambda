@@ -1,0 +1,17 @@
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\AlexaGitHubDemo.exe
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\aws-lambda-tools-defaults.json
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\AlexaGitHubDemo.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\AlexaGitHubDemo.deps.json
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\AlexaGitHubDemo.runtimeconfig.json
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\AlexaGitHubDemo.pdb
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Alexa.NET.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Amazon.Lambda.Core.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Amazon.Lambda.Serialization.Json.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Octokit.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Annalisa_lavoro\Documents\Visual Studio 2019\Projects\AlexaProject\obj\Debug\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
